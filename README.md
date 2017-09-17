@@ -41,7 +41,13 @@ The purpose of this is to have links to examples that shows Hyperapp's core conc
     1. For example: Shopify clone that uses shopping cart, user authentication, products list, products details, emails, change password etc.
 2. https://wrapbootstrap.com/theme/ant-reactjs-admin-web-app-WB034D136
 
-
+## Build Fun Apps:
+1. Tetris With States - https://github.com/skidding/flatris (currently in React)
+2.  Gopherize me  - https://gopherize.me/ (Go language)
+2. Emoji Search - https://github.com/ahfarmer/emoji-search (currently in React)
+3. Product comparison - https://github.com/Rhymond/product-compare-react
+4. Todo Example
+5. HackerNews Clone
 
 ## Integrating 3rd party apps
 https://facebook.github.io/react/docs/integrating-with-other-libraries.html
