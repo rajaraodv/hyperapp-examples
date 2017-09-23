@@ -42,12 +42,19 @@ The purpose of this is to have links to examples that shows Hyperapp's core conc
 2. https://wrapbootstrap.com/theme/ant-reactjs-admin-web-app-WB034D136
 
 ## Build Fun Apps:
-1. Tetris With States - https://github.com/skidding/flatris (currently in React)
-2.  Gopherize me  - https://gopherize.me/ (Go language)
+1. Gopherize me  - https://gopherize.me/ (Go language)
 2. Emoji Search - https://github.com/ahfarmer/emoji-search (currently in React)
-3. Product comparison - https://github.com/Rhymond/product-compare-react
-4. Todo Example
+3. Product comparison - https://github.com/Rhymond/product-compare-react (React)
+4. TodoMVC - http://todomvc.com/examples/react (React)
 5. HackerNews Clone
+6. SVG Clock - http://cdn.rawgit.com/MithrilJS/mithril.js/master/examples/svg/clock.html (mithril.js)
+7. Markdown Editor - https://jsfiddle.net/chrisvfritz/rdjjpc7a (Vue.js)
+
+### Games
+1. Tetris With States - https://github.com/skidding/flatris (currently in React)
+2. Mario - https://github.com/avh4/elm-mario (Elm)
+3. Pong - http://elm-lang.org:1234/examples/pong (Elm)
+4. First Person 3D - https://github.com/evancz/first-person-elm (Elm)
 
 ## Integrating 3rd party apps
 https://facebook.github.io/react/docs/integrating-with-other-libraries.html
